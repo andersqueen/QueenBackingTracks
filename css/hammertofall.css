@@ -31,7 +31,8 @@
 
 audio {
     position: absolute;
-    left: 560px;
-    top: 500px;
+    margin-left: -300px;
+    margin-right: auto;
+    margin-top: 350px;
     z-index: 1
 }
