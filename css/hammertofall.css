@@ -29,10 +29,9 @@
     z-index: 2
 }
 
-audio {
+audio{
     position: absolute;
     margin-left: -300px;
     margin-right: auto;
     margin-top: 350px;
-    z-index: 1
 }
